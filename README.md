@@ -1,2 +1,4 @@
-# First-Assignment
-First assignment for Software development 1
+# Module 1 "Final Programming project"
+Chritopher Ramirez, CEN 4333C, 15115
+
+This repository contains my Final programming project that I accomplished during a Python programming class that I took last school year. This programming project is important because it Utilizes alot of important python features such as data strcutures, functions, conditional branching and much more. The programs main objective is to be utilized by people to keep track of bugdets and spending, make and edit list of any kind and perform calculations as needed. The expected outcomes will vary; you can see this when running the applications. The application prompts the user with to select one of the four options that they see on the menu. Essentially the output will always change based on how much you spend and what the user input but its main purpose is to keep track of income and spending. 
